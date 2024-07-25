@@ -1,4 +1,4 @@
-# Weather Web Application
+# Weather Application
 
 This application provides real-time weather information for any location in the world. Built using modern web technologies, it aims to offer a seamless and user-friendly experience.
 

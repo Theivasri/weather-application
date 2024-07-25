@@ -27,7 +27,7 @@ This application provides real-time weather information for any location in the 
     ```
 2. **Navigate to the project directory:**
     ```bash
-    cd weatherapp
+    cd weather-app
     ```
 3. **Install the dependencies**
    ```bash

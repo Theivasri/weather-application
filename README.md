@@ -14,7 +14,7 @@ This application provides real-time weather information for any location in the 
 
 ## Technologies Used
 
-- HTML5 and CSS3 for building the user interface.
+- React for building the user interface..
 - JavaScript for data retrieval, display, and user interaction.
 - [OpenWeatherMap API](https://openweathermap.org/api) for weather data.
 - Vite for fast development.
@@ -29,9 +29,17 @@ This application provides real-time weather information for any location in the 
     ```bash
     cd weatherapp
     ```
-3. **Open `index.html` in your web browser to view the app locally.**
+3. **Install the dependencies**
+   ```bash
+   npm install
+   ```
+4. **Replace the placeholder in the JavaScript code with your OpenWeatherMap API key to customize it.**
 
-4. Replace the placeholder in the JavaScript code with your OpenWeatherMap API key to customize it.
+5. **Run the development server:**
+    ```bash
+    npm run dev
+    ```
+6. **Open your web browser and access the local server to view the application.**
 
 ## Usage
 
